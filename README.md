@@ -17,7 +17,7 @@
   
 - 💞️ I’m looking to collaborate on Agile software development projects. I am available for Graduate (or Entry Level) employment.
 
-- 📫 How to reach me on Twitter (@fafa416) or LinkedIn (Uffa Modey)
+- 📫 Reach me on Twitter (@fafa416) or LinkedIn (Uffa Modey)
 
 <!---
 UffaModey/UffaModey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
