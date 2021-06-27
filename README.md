@@ -5,7 +5,7 @@
   - iOS mobile app development with Swift
   - Robotics and automation 
   - Wireless communication networks
-  - Cloud computing (Azure and AWS)
+  - Cloud computing (Azure, Digital Ocean and AWS)
   - Dev Ops (Travis CI)
   - Agile Engineering (JIRA)
   - Language Engineering (Domain Specific Languages)
