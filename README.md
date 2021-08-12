@@ -1,18 +1,17 @@
 - 👋 Hi, I’m @UffaModey
 
 - 👀 I’m interested in: 
-  - Software development with Python, C++ and C# 
-  - iOS mobile app development with Swift
+  - GUI, Web and Mobile applications software development with Python, C++, C#, and Swift
   - Robotics and automation 
   - Wireless communication networks
   - Cloud computing (Azure, DigitalOcean and AWS)
-  - Dev Ops (Travis CI)
+  - Dev Ops 
   - Agile Engineering (JIRA)
   - Language Engineering (Domain Specific Languages)
   
 - 🌱 I’m currently learning:
   - SQL databases
-  - Jenkins
+  - CI/CD pipelines
   - Docker
   
 - 💞️ I’m looking to collaborate on Agile software development projects. I am available for Graduate (or Entry Level) employment.
