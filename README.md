@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UffaModey
 
 - 👀 I’m interested in: 
-  - GUI, Web and Mobile applications software development with Python, C++, C#, and Swift
+  - GUI, Web and Mobile applications software development with Python (Django, Flask, Tkinter), C++, C#, and Swift
   - Robotics and automation 
   - Wireless communication networks
   - Cloud computing (Azure, DigitalOcean and AWS)
