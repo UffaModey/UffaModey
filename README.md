@@ -14,7 +14,7 @@
   - CI/CD pipelines
   - Docker
   
-- 💞️ I’m looking to collaborate on Agile software development projects. I am available for Graduate (or Entry Level) employment.
+- 💞️ I’m looking to collaborate on Agile software development projects. I am available for Entry Level employment.
 
 - 📫 Reach me on Twitter (@fafacodes) or LinkedIn (Uffa Modey)
 
