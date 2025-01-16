@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Uffa Modey (@UffaModey)
+# 👋 Hi, I’m Fafa (@UffaModey)
 
 ## 👀 About Me
 I'm a passionate Software Engineer with expertise in:
